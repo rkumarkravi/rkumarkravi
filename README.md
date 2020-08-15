@@ -21,29 +21,26 @@
 JAVA (Full Stack), HTML, CSS, JS, Sping Boot, Hibernate, Angular, Android Development, Flutter,
 Photoshop, Firebase, MongoDB, Pyhton
 
-
-
-<br />
 <br />
 
 ---
 
-### 📕 Projects
+### 📕 Projects 
 
-1. Comment Analyser - ML
-2. Forum - Like Quora - Spring MVC & Hibernate 
-3. Bus ticket booker Website - Spring MVC & Hibernate 
-4. Facial Expression Detection - ML (Group Project)
-5. Local Music Player - Android
-6. Notes App - Android
-7. Bus Tracker - Android
-8. Quiz App - Android & Firebaase
-9. Chat App - Android & Firebase
-10. Instagram - Andorid UI Design
-11. Alarm Clock Design - Android UI Design
-12. Pokemon Card - Flutter UI Design
-13. NearBy - Flutter UI Design
-14. HireMe - Flutter (Under Development)
+1. Comment Analyser - ## ML
+2. Forum - Like Quora - ## Spring MVC & Hibernate 
+3. Bus ticket booker Website - ## Spring MVC & Hibernate 
+4. Facial Expression Detection -##  ML (Group Project)
+5. Local Music Player - ## Android
+6. Notes App - ## Android
+7. Bus Tracker - ## Android
+8. Quiz App - ## Android & Firebaase
+9. Chat App - ## Android & Firebase
+10. Instagram - ## Andorid UI Design
+11. Alarm Clock Design - ## Android UI Design
+12. Pokemon Card - ## Flutter UI Design
+13. NearBy - ## Flutter UI Design
+14. HireMe - ## Flutter (Under Development)
 
 ---
 

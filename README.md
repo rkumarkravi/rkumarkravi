@@ -20,7 +20,7 @@
 ### Languages and Tools:
 Java (Full Stack), HTML, CSS, JS, Sping Boot, Hibernate, Angular, Android Development, Flutter,
 Photoshop, Firebase, MongoDB, Pyhton, Android Studio, Visual Studio, Eclipse, Netbeans, PuTTY, STS,
-SoapUI, sqlDevelpoer, Winmerge, File Zilla, Git
+SoapUI, sqlDevelpoer, WinMerge, File Zilla, Git
 
 <br />
 

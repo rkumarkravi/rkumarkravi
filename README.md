@@ -41,7 +41,10 @@ SoapUI, sqlDevelpoer, WinMerge, File Zilla, Git
 ## 11. Alarm Clock Design - Android UI Design
 ## 12. Pokemon Card - Flutter UI Design
 ## 13. NearBy - Flutter UI Design
-## 14. HireMe - Flutter (Under Development)
+## 14. HireMe - Flutter UI Design
+## 15. Facebook Clone - Angular (UI Design) and React (UI and Backend with Firebase)
+## 16. Youtube Clone - Angular and Youtube API
+## 17. Log Search ( FE- Angular and BE- Spring Boot)
 
 ---
 

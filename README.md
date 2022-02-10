@@ -5,8 +5,8 @@
 ## I'm a Full stack Java Developer and UI designer!
 
 - 🔭 I’m currently working on a Springboot project!
-- 🌱 I’m currently learning everything 
-- 🥅 2020 Goals: Learn More technologies
+- 🌱 I’m currently learning React 
+- 🥅 2022 Goals: Learn More technologies
 - ⚡ Fun fact: In free time i play video games and football 
 
 ### Connect with me:

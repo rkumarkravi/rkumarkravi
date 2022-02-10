@@ -43,9 +43,9 @@ SoapUI, sqlDevelpoer, WinMerge, File Zilla, Git
 ## 12. Pokemon Card - Flutter UI Design
 ## 13. NearBy - Flutter UI Design
 ## 14. HireMe - Flutter UI Design
-## 15. Facebook Clone - Angular (UI Design) and React (UI and Backend with Firebase)
-## 16. Youtube Clone - Angular and Youtube API
-## 17. Log Search ( FE- Angular and BE- Spring Boot)
+## 15. Facebook Clone - <a href="https://github.com/rkumarkravi/angular-projects/tree/main/facebook-ui-clone">Angular (UI Design)</a> and <a href="https://github.com/rkumarkravi/react-projects/tree/master/facebook-clone">React (UI and Backend with Firebase)</a>
+## 16. Youtube Clone - <a href="https://github.com/rkumarkravi/YoutubeCloneapp">Angular and Youtube API</a>
+## 17. Log Search ( <a href="https://github.com/rkumarkravi/logSeachUI">FE- Angular</a> and <a href="https://github.com/rkumarkravi/LogSearch">BE- Spring Boot</a>)
 ## 18. <a href="https://github.com/rkumarkravi/react-projects/tree/master/netflix-clone">Netflix Clone ( FE- React )</a>
 
 ---

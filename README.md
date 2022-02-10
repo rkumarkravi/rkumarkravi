@@ -13,7 +13,7 @@
 
 <a href="https://twitter.com/iamravikumark"><img align="left" alt="rkumarkravi | Twitter" width="22px" src="https://abs.twimg.com/favicons/twitter.2.ico" /></a>
 <a href="https://www.linkedin.com/in/ravi-kumar-83b9b2150/"><img align="left" alt="rkumarkravi | LinkedIn" width="22px" src="https://static-exp1.licdn.com/sc/h/1bt1uwq5akv756knzdj4l6cdc" /></a>
-<img align="left" alt="rkumarkravi | Instagram" width="22px" src="https://www.instagram.com/static/images/ico/favicon.ico/36b3ee2d91ed.ico" />
+<a href="https://www.instagram.com/rk_avi_kumar_rk/"><img align="left" alt="rkumarkravi | Instagram" width="22px" src="https://www.instagram.com/static/images/ico/favicon.ico/36b3ee2d91ed.ico" /><a>
 <a href="https://www.youtube.com/channel/UC1FaxUvZfLG41QdasijHZag"><img align="left" alt="rkumarkravi | Youtube" width="22px" src="https://www.youtube.com/s/desktop/f507fb37/img/favicon_32x32.png" /></a>
 
 <br />

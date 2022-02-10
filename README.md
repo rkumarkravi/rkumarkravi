@@ -11,10 +11,10 @@
 
 ### Connect with me:
 
-<a href="https://twitter.com/iamravikumark"><img align="left" alt="rkumarkravi | Twitter" width="22px" src="https://abs.twimg.com/favicons/twitter.2.ico" /></a>
-<a href="https://www.linkedin.com/in/ravi-kumar-83b9b2150/"><img align="left" alt="rkumarkravi | LinkedIn" width="22px" src="https://static-exp1.licdn.com/sc/h/1bt1uwq5akv756knzdj4l6cdc" /></a>
-<a href="https://www.instagram.com/rk_avi_kumar_rk/"><img align="left" alt="rkumarkravi | Instagram" width="22px" src="https://www.instagram.com/static/images/ico/favicon.ico/36b3ee2d91ed.ico" /><a>
-<a href="https://www.youtube.com/channel/UC1FaxUvZfLG41QdasijHZag"><img align="left" alt="rkumarkravi | Youtube" width="22px" src="https://www.youtube.com/s/desktop/f507fb37/img/favicon_32x32.png" /></a>
+<a href="https://twitter.com/iamravikumark" target="_blank"><img align="left" alt="rkumarkravi | Twitter" width="22px" src="https://abs.twimg.com/favicons/twitter.2.ico" /></a>
+<a href="https://www.linkedin.com/in/ravi-kumar-83b9b2150/" target="_blank"><img align="left" alt="rkumarkravi | LinkedIn" width="22px" src="https://static-exp1.licdn.com/sc/h/1bt1uwq5akv756knzdj4l6cdc" /></a>
+<a href="https://www.instagram.com/rk_avi_kumar_rk/" target="_blank"><img align="left" alt="rkumarkravi | Instagram" width="22px" src="https://www.instagram.com/static/images/ico/favicon.ico/36b3ee2d91ed.ico" /><a>
+<a href="https://www.youtube.com/channel/UC1FaxUvZfLG41QdasijHZag" target="_blank"><img align="left" alt="rkumarkravi | Youtube" width="22px" src="https://www.youtube.com/s/desktop/f507fb37/img/favicon_32x32.png" /></a>
 
 <br />
 
@@ -43,10 +43,10 @@ SoapUI, sqlDevelpoer, WinMerge, File Zilla, Git
 ## 12. Pokemon Card - Flutter UI Design
 ## 13. NearBy - Flutter UI Design
 ## 14. HireMe - Flutter UI Design
-## 15. Facebook Clone - <a href="https://github.com/rkumarkravi/angular-projects/tree/main/facebook-ui-clone">Angular (UI Design)</a> and <a href="https://github.com/rkumarkravi/react-projects/tree/master/facebook-clone">React (UI and Backend with Firebase)</a>
-## 16. Youtube Clone - <a href="https://github.com/rkumarkravi/YoutubeCloneapp">Angular and Youtube API</a>
-## 17. Log Search ( <a href="https://github.com/rkumarkravi/logSeachUI">FE- Angular</a> and <a href="https://github.com/rkumarkravi/LogSearch">BE- Spring Boot</a>)
-## 18. <a href="https://github.com/rkumarkravi/react-projects/tree/master/netflix-clone">Netflix Clone ( FE- React )</a>
+## 15. Facebook Clone - <a href="https://github.com/rkumarkravi/angular-projects/tree/main/facebook-ui-clone" target="_blank">Angular (UI Design)</a> and <a href="https://github.com/rkumarkravi/react-projects/tree/master/facebook-clone" target="_blank">React (UI and Backend with Firebase)</a>
+## 16. Youtube Clone - <a href="https://github.com/rkumarkravi/YoutubeCloneapp" target="_blank">Angular and Youtube API</a>
+## 17. Log Search ( <a href="https://github.com/rkumarkravi/logSeachUI" target="_blank">FE- Angular</a> and <a href="https://github.com/rkumarkravi/LogSearch" target="_blank">BE- Spring Boot</a>)
+## 18. <a href="https://github.com/rkumarkravi/react-projects/tree/master/netflix-clone" target="_blank">Netflix Clone ( FE- React )</a>
 
 ---
 

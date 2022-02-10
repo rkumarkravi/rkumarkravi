@@ -46,7 +46,7 @@ SoapUI, sqlDevelpoer, WinMerge, File Zilla, Git
 ## 15. Facebook Clone - Angular (UI Design) and React (UI and Backend with Firebase)
 ## 16. Youtube Clone - Angular and Youtube API
 ## 17. Log Search ( FE- Angular and BE- Spring Boot)
-## 18. Netflix Clone ( FE- React )
+## 18. <a href="https://github.com/rkumarkravi/react-projects/tree/master/netflix-clone">Netflix Clone ( FE- React )</a>
 
 ---
 

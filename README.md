@@ -43,12 +43,12 @@ SoapUI, sqlDevelpoer, WinMerge, File Zilla, Git
 ## 12. Pokemon Card - Flutter UI Design
 ## 13. NearBy - Flutter UI Design
 ## 14. HireMe - Flutter UI Design
-## 15. Facebook Clone - <a href="https://github.com/rkumarkravi/angular-projects/tree/main/facebook-ui-clone" target="_blank">Angular (UI Design)</a> and <a href="https://github.com/rkumarkravi/react-projects/tree/master/facebook-clone" target="_blank">React (UI and Backend with Firebase)</a>
+## 15. Facebook Clone - (FE- <a href="https://github.com/rkumarkravi/angular-projects/tree/main/facebook-ui-clone" target="_blank">Angular (UI Design)</a> and <a href="https://github.com/rkumarkravi/react-projects/tree/master/facebook-clone" target="_blank">React (UI and Backend with Firebase)</a>)
 ## 16. Youtube Clone - <a href="https://github.com/rkumarkravi/YoutubeCloneapp" target="_blank">Angular and Youtube API</a>
-## 17. Log Search ( <a href="https://github.com/rkumarkravi/logSeachUI" target="_blank">FE- Angular</a> and <a href="https://github.com/rkumarkravi/LogSearch" target="_blank">BE- Spring Boot</a>)
+## 17. Log Search - (FE- <a href="https://github.com/rkumarkravi/logSeachUI" target="_blank">Angular</a> and BE- <a href="https://github.com/rkumarkravi/LogSearch" target="_blank">Spring Boot</a>)
 ## 18. Netflix Clone - (FE-<a href="https://github.com/rkumarkravi/react-projects/tree/master/netflix-clone" target="_blank"> React</a>)
-## 19. Spotify Clone - (FE-<a href="https://github.com/rkumarkravi/angular-projects/tree/main/spotify-clone" target="_blank"> Angular</a>,<a href="https://github.com/rkumarkravi/react-projects/tree/master/spotify-clone" target="_blank">React</a>)(<a href="https://github.com/rkumarkravi/spring-boot-projects/tree/main/musify-rk" target="_blank"> BE- Spring boot </a>)
-## 20. Anime Streamer -( FE- <a href="https://github.com/rkumarkravi/flutterProjects/tree/main/animax" target="_blank">(Flutter </a>,<a href="https://github.com/rkumarkravi/angular-projects/tree/main/anime-stream-frontend" target="_blank"> Angular</a>)(<a href="https://github.com/rkumarkravi/spring-boot-projects/tree/main/anime-stream-backend" target="_blank"> BE- Spring boot </a>)
+## 19. Spotify Clone - (FE-<a href="https://github.com/rkumarkravi/angular-projects/tree/main/spotify-clone" target="_blank"> Angular</a>,<a href="https://github.com/rkumarkravi/react-projects/tree/master/spotify-clone" target="_blank">React</a>)(BE- <a href="https://github.com/rkumarkravi/spring-boot-projects/tree/main/musify-rk" target="_blank"> Spring boot </a>)
+## 20. Anime Streamer -( FE- <a href="https://github.com/rkumarkravi/flutterProjects/tree/main/animax" target="_blank">(Flutter </a>,<a href="https://github.com/rkumarkravi/angular-projects/tree/main/anime-stream-frontend" target="_blank"> Angular</a>)(BE- <a href="https://github.com/rkumarkravi/spring-boot-projects/tree/main/anime-stream-backend" target="_blank"> Spring boot </a>)
 ---
 
 [twitter]: https://twitter.com/iamravikumark

@@ -47,12 +47,8 @@ SoapUI, sqlDevelpoer, WinMerge, File Zilla, Git
 ## 16. Youtube Clone - <a href="https://github.com/rkumarkravi/YoutubeCloneapp" target="_blank">Angular and Youtube API</a>
 ## 17. Log Search ( <a href="https://github.com/rkumarkravi/logSeachUI" target="_blank">FE- Angular</a> and <a href="https://github.com/rkumarkravi/LogSearch" target="_blank">BE- Spring Boot</a>)
 ## 18. <a href="https://github.com/rkumarkravi/react-projects/tree/master/netflix-clone" target="_blank">Netflix Clone ( FE- React )</a>
-## 19.1. <a href="https://github.com/rkumarkravi/spring-boot-projects/tree/main/musify-rk" target="_blank">Spotify Clone ( BE- Spring boot )</a>
-## 19.2. <a href="https://github.com/rkumarkravi/angular-projects/tree/main/spotify-clone" target="_blank">Spotify Clone ( FE- Angular )</a>
-## 19.3. <a href="https://github.com/rkumarkravi/react-projects/tree/master/spotify-clone" target="_blank">Spotify Clone ( FE- React )</a>
-## 20.1. <a href="https://github.com/rkumarkravi/flutterProjects/tree/main/animax" target="_blank">Anime Streamer ( FE- Flutter )</a>
-## 20.2. <a href="https://github.com/rkumarkravi/angular-projects/tree/main/anime-stream-frontend" target="_blank">Anime Streamer ( FE- Angular )</a>
-## 20.3. <a href="https://github.com/rkumarkravi/spring-boot-projects/tree/main/anime-stream-backend" target="_blank">Anime Streamer ( BE- Spring boot )</a>
+## 19 <a href="https://github.com/rkumarkravi/angular-projects/tree/main/spotify-clone" target="_blank">(FE- Angular</a><a href="https://github.com/rkumarkravi/react-projects/tree/master/spotify-clone" target="_blank">,React)</a><a href="https://github.com/rkumarkravi/spring-boot-projects/tree/main/musify-rk" target="_blank"> ( BE- Spring boot )</a>
+## 20. <a href="https://github.com/rkumarkravi/flutterProjects/tree/main/animax" target="_blank">Anime Streamer ( FE- Flutter </a><a href="https://github.com/rkumarkravi/angular-projects/tree/main/anime-stream-frontend" target="_blank">,FE- Angular )</a><a href="https://github.com/rkumarkravi/spring-boot-projects/tree/main/anime-stream-backend" target="_blank"> ( BE- Spring boot )</a>
 ---
 
 [twitter]: https://twitter.com/iamravikumark

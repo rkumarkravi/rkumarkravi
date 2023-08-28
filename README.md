@@ -2,6 +2,9 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/iamravikumark?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fiamravikumark&screen_name=iamravikumark)
 
+## contact details
+email: rkumark.ravi@gmail.com
+
 ## I'm a Full stack Java Developer and Frontend Developer!
 
 - 🔭 I’m currently working on a Springboot projects!

@@ -3,8 +3,8 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/iamravikumark?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fiamravikumark&screen_name=iamravikumark)
 
 ## contact details
-email: er.rkumar96+github@gmail.com
-github page: <a href="https://rkumarkravi.github.io/rkumarkravi/" target="_blank">rkumarkravi.github.io</a>
+- email: er.rkumar96+github@gmail.com
+- github page: <a href="https://rkumarkravi.github.io/rkumarkravi/" target="_blank">rkumarkravi.github.io</a>
 
 ## I'm a Full stack Java Developer and Frontend Developer!
 

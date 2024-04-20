@@ -29,7 +29,7 @@ SoapUI, sqlDevelpoer, WinMerge, File Zilla, Git
 
 <br />
 
----
+![](https://i.imgur.com/waxVImv.png)
 
 ### 📕 Projects 
 
